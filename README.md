@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @ajsmith
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm @ajsmith and welcome to my Github space. Here you'll find a
+small collection of personal projects.
 
-<!---
-ajsmith/ajsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Machine Learning Engineer at Capital One. I'm also a PhD student
+in Bioinformatics and Computational Biology at George Mason
+University.
+
+My favorite programming languages are Python and Haskell. I love open
+source software and Linux.
+
+For fun, I'm into gaming. I like Dungeons & Dragons and
+Pathfinder. For video games, my recent favorites are mostly indie
+titles like RimWorld, Factorio, and Darkest Dungeon.
+
+Feel free to say hi if you're interested in my work or want to
+collaborate! I can be reached at
+[asmitl@gmu.edu](mailto:asmitl@gmu.edu)
